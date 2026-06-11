@@ -4,8 +4,7 @@ This section covers the foundations used across data structures, algorithms, and
 
 ## Topics
 
-- Time and space complexity
-- Big O notation
+- [Complexity Analysis](Complexity_Analysis.md)
 - Recursion
 - Iteration
 - Problem decomposition
@@ -21,4 +20,3 @@ Each topic note should explain:
 - Tradeoffs and limitations
 - Examples
 - Related problems
-
